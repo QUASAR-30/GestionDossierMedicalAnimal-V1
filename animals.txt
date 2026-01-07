@@ -1,0 +1,5 @@
+À FAIRE POUR LE DOSSIER MÉDICAL :
+- [ ] Créer l'interface de connexion
+- [ ] Ajouter un formulaire d'enregistrement d'animal
+- [ ] Implémenter l'historique des vaccins
+- [ ] Système de recherche par nom de propriétaire
